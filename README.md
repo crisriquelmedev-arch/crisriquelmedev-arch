@@ -1,6 +1,6 @@
 👋 Sobre mí
 
-Soy Cristian, desarrollador backend en desarrollo con una clara orientación a la ingeniería de software profesional, la calidad del código y las buenas prácticas. Actualmente curso el Grado en Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea, donde estoy consolidando una base sólida en programación, bases de datos y arquitectura de aplicaciones.
+Soy Cristian, desarrollador backend en desarrollo con una clara orientación a la ingeniería de software profesional, la calidad del código y las buenas prácticas. Actualmente curso el Grado Superior en Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea, donde estoy consolidando una base sólida en programación, bases de datos y arquitectura de aplicaciones.
 
 Mi objetivo profesional es crecer como Backend Developer, participando en proyectos reales, escalables y bien estructurados, donde pueda aportar valor mientras continúo evolucionando técnica y profesionalmente.
 
@@ -71,6 +71,7 @@ Separación de responsabilidades
 
 Documentación técnica
 
+
 📈 En qué estoy trabajando actualmente
 
 Profundizando en PostgreSQL y SQL avanzado
@@ -80,6 +81,7 @@ Creando APIs backend más robustas y documentadas
 Aprendiendo Salesforce desde cero hasta desarrollo
 
 Mejorando estructura de proyectos y uso de Git en entornos reales
+
 
 🚀 Objetivos a corto y medio plazo
 
