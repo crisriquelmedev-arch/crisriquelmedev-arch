@@ -14,7 +14,7 @@ Enfocada en escribir código limpio, mantenible y documentado
 
 Con mentalidad de mejora continua
 
-🧠 Perfil profesional
+# 🧠 Perfil profesional
 
 🎯 Rol objetivo: Backend Developer / Junior Backend Engineer
 
